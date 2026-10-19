@@ -1,4 +1,4 @@
-package com.sergillobet.ai_strength_tracker;
+package com.example.aistrengthtracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

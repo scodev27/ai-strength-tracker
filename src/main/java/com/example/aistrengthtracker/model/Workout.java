@@ -1,4 +1,4 @@
-package com.sergillobet.ai_strength_tracker.model;
+package com.example.aistrengthtracker.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
